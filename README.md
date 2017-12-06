@@ -1,9 +1,9 @@
 # ADS Project 5: 
 
-Term: Fall 2017
 
 ![image](figs/woof_meow.jpg)
 
+Term: Fall 2017
 + Team # Group 7
 + Projec title: Project 5: Image Classification using Neural Network
 + Team members
