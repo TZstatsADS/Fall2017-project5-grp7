@@ -2,6 +2,8 @@
 
 Term: Fall 2017
 
+![image](figs/woof_meow.jpg)
+
 + Team # Group 7
 + Projec title: Project 5: Image Classification using Neural Network
 + Team members
