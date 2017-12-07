@@ -14,6 +14,6 @@ inception_short_ipynb contains the full code for inception network
 
 `vggmain` packs all functions used in vgg network and display tensorboard.
 
-
+'CIFAR 10' contains the input, model and evaluation three parts, in order to run the file, just adjust the directory and run 'run_training'. The results are saved as html format.
 
 
