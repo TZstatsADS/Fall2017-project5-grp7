@@ -1,9 +1,9 @@
 # ADS Project 5: 
 
 
-![image](figs/1.jpg) 
 
 Term: Fall 2017
+
 + Team # Group 7
 + Projec title: Project 5: Image Classification using Neural Network
 + Team members
@@ -12,6 +12,8 @@ Term: Fall 2017
 	+ Hongjie Ren(Presenter)
 	+ Qihang Li
 	+ Yingbin Jiang
+
++ Main File link : [Click Here](https://github.com/TZstatsADS/Fall2017-project5-grp7/blob/master/doc/main.ipynb )
 	
 + Project summary: 
 
@@ -22,6 +24,13 @@ In this project, we use mutiple neural network model to do image recognition. Th
 + Project Conlusion  
 
 ![b](figs/5.jpg)
+
+* Kaggle Best Ranking 
+
+Our best model ranked top 5.3% in kaggle competition, here are the screenshots:
+![b1](figs/best1.jpg)
+![b2](figs/best2.jpg)
+
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
