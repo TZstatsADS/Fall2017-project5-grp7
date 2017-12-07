@@ -13,7 +13,8 @@ Term: Fall 2017
 	+ Qihang Li
 	+ Yingbin Jiang
 
-+ Main File link : [Click Here](https://github.com/TZstatsADS/Fall2017-project5-grp7/blob/master/doc/main.ipynb )
++ Main File Link : [Click Here](https://github.com/TZstatsADS/Fall2017-project5-grp7/blob/master/doc/main.ipynb )
++ Presentation Slides Link : [Click Here](https://github.com/TZstatsADS/Fall2017-project5-grp7/blob/master/doc/proj5-grp7.pptx)
 	
 + Project summary: 
 
