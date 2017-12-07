@@ -327,3 +327,14 @@ def evaluate_one_image(n):
                 
             else:
                 print('This is a dog with possibility %.6f \n' %prediction[:, 1])
+                
+#---------------------------------------------------------------------------------
+# run evaluation            
+def evaluation():
+    cifar10_results=[]
+
+    for i in range(12500):  
+        print('\n-----------------------')
+        print(i)
+        cifar10_results.append(evaluate_one_image(i))
+    return(cifar10_results)
