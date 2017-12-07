@@ -9,11 +9,11 @@ Term: Fall 2017
 + Team members
 	+ Chenyun Wu
 	+ Fan Gong
-	+ Hongjie Ren
+	+ Hongjie Ren(Presenter)
 	+ Qihang Li
 	+ Yingbin Jiang
 	
-+ Project summary: In this project, we use mutiple neural network to do image classificaiton. Cifar 10, VGG-16 and Inception-V3 are implemented to classifiy 12500 cat/dog images.
++ Project summary: In this project, we use mutiple neural network model to do image recognition. Three models--Cifar 10, VGG-16 and Inception-V3 are implemented to classifiy 12500 cat/dog images. The prediction performance of three model has ranking of 65%, top 6.6%, top 5.3% in the Kaggle competition respectively. Based on that, we also compare the models and get some interesting findings of the results.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
